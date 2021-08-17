@@ -1,5 +1,5 @@
 Mask 
-by: Shel Silverstein
+By: Shel Silverstein
 
 She had blue skin.
 And so did he.
@@ -9,3 +9,5 @@ They searched for blue
 Their whole life through,
 Then passed right by—
 And never knew.
+
+The End
